@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/hexactyl/docker"
+		},
+		{
+			"path": "../../../Desktop/hexactyl/install"
+		},
+		{
+			"path": "../../../Desktop/hexactyl/panel"
+		},
+		{
+			"path": "../../../Desktop/hexactyl/wings-auto"
+		}
+	],
+	"settings": {}
+}
